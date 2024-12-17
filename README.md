@@ -1,7 +1,3 @@
-# ThinkClock-Innovation-Labs
-Here's a starting point for a **README.md** tailored for your uploaded file:
-
----
 
 # **ThinkClock Innovation Labs**
 
